@@ -6,6 +6,7 @@
 
 # Maven target folder
 backend/target/
+.vscode
 
 # Eclipse / IntelliJ / VSCode project files
 *.iml
